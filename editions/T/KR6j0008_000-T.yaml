@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0008/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大毘盧遮那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌供養方便會
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0852a.xml
+    old_id: T18n0852a
+hash: sha256:3d3afaaa9a704133d24ca4115514152294695550fefb721a46aa366f5ca8006d

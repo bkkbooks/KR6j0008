@@ -1,0 +1,80 @@
+canonical_identifier: bkk:krp/KR6j0008/v1
+canonical_location: https://kanripo.org/bkk/KR6j0008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大毘盧遮那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌供養方便會
+  identifiers:
+    alt_id:
+    - T18n0852a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T18/T18n0852a.xml
+    old_id: T18n0852a
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 乙
+  label: 乙
+  source_xml_id: wit1
+- short: 丙
+  label: 丙
+  source_xml_id: wit3
+- short: 原
+  label: 原
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0008_000.yaml, hash: 'sha256:3d3afaaa9a704133d24ca4115514152294695550fefb721a46aa366f5ca8006d'}
+  - {seq: 1, filename: KR6j0008_001.yaml, hash: 'sha256:17f4a47f848ce9b46c01c0e79b3f392785fc93ec498d3d994f6568cff2128452'}
+  - {seq: 2, filename: KR6j0008_002.yaml, hash: 'sha256:c3d4d379b2baf0de5e03b7742c97d6c5306957d1abe7d6640a474fc35d12dd22'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0008_001.markers.yaml, hash: 'sha256:577bc54762fcc81cb867a717fc8e9521a4464a923411afae224883517c1c81ff'}
+  - {seq: 2, role: markers, filename: assets/KR6j0008_002.markers.yaml, hash: 'sha256:3a0ede7373928f4bb6324493f3b215fd599098dbf0b118f2adfd256efc53822d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0008_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9077
+  label: '大毘盧遮那成佛神變加持經蓮
+
+    華胎藏悲生曼荼羅廣大成就儀
+
+    軌供養方便會第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0008_T_001-mulu-1
+    span:
+    - body
+    - 1763
+    - 1763
+  label: 菩提幢密印幖幟祕密漫荼羅法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0008_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9642
+  label: 大毘盧遮那成佛神變經卷第二
+  type: juan
+  level: 1
+hash: sha256:762e8e429df153912672696bddb279345f76fdd27c28f1c57cb200e24f4aea16
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
