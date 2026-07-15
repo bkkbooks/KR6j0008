@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0008/v1
 canonical_location: https://kanripo.org/bkk/KR6j0008/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大毘盧遮那成佛神變加持經蓮華胎藏悲生曼荼羅廣大成就儀軌供養方便會
   identifiers:
@@ -34,12 +34,12 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0008_000.yaml, hash: 'sha256:3d3afaaa9a704133d24ca4115514152294695550fefb721a46aa366f5ca8006d'}
-  - {seq: 1, filename: KR6j0008_001.yaml, hash: 'sha256:a543074cbc8367705ed898dddb4ee99820cebd7823f597a796ed73d31d43d60a'}
-  - {seq: 2, filename: KR6j0008_002.yaml, hash: 'sha256:95e589f5e7d19704340223c6992eabf5cb0ba8b17735e195f18c52068669c260'}
+  - {seq: 1, filename: KR6j0008_001.yaml, hash: 'sha256:fb9aab21d331b827823fec96a528264f5d39aab11a0fa8acbde976b6bbfe7ad1'}
+  - {seq: 2, filename: KR6j0008_002.yaml, hash: 'sha256:0b3da2ea4868b9535de58bddd6fa3d98b4bfb6bf8e1b14e563920137aa79e57a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0008_000.markers.yaml, hash: 'sha256:24d180273d0ab40c8654a4a90f1ce75a64f00836154f741f5de27233f7f3533e'}
-  - {seq: 1, role: markers, filename: assets/KR6j0008_001.markers.yaml, hash: 'sha256:0a831a3c5d7d5f65ec79f476fca9aa91457e6721e6b5b0899b96cb27092ce54a'}
-  - {seq: 2, role: markers, filename: assets/KR6j0008_002.markers.yaml, hash: 'sha256:594fca9b98f771532c6d1ae3f5ad17d44d59ca9866ca46f3645f65612e9c9c8e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0008_001.markers.yaml, hash: 'sha256:32c968192a2cebe3316a939af9caa8fd43df607cd4f884dd693993a2623c8225'}
+  - {seq: 2, role: markers, filename: assets/KR6j0008_002.markers.yaml, hash: 'sha256:468a846185e30ce1d522bc656bfa8c023620facf537b729278ba60b74f804fcc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -75,4 +75,7 @@ table_of_contents:
   label: 大毘盧遮那成佛神變經卷第二
   type: juan
   level: 1
-hash: sha256:a8d0beb7ea8ec0676359e4ed65fae7617e81670300befbe2c59f393c57deead6
+hash: sha256:bc332d8582fc42a617c44fbaf265429c15ca39b69e7d79c39275a6b701a9a2ab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
